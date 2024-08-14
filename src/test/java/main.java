@@ -13,6 +13,13 @@ public class main {
         tire.tyreModel="Yokohoma";
         tire.tyreWidth="18";
 
+        Lights light=new Lights();
+        light.color="blue";
+        light.opacity="50";
+        light.size="40";
+        
+
+
 
     }
 }
